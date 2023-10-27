@@ -1,0 +1,41 @@
+{
+    "name": "workspace",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/main.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon",
+        "dev": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/henriquediascampos/workspace.git"
+    },
+    "author": "henrique.campos",
+    "bugs": {
+        "url": "https://github.com/henriquediascampos/workspace/issues"
+    },
+    "homepage": "https://github.com/henriquediascampos/workspace#readme",
+    "devDependencies": {
+        "@types/electron": "^1.6.10",
+        "@typescript-eslint/eslint-plugin": "^6.9.0",
+        "@typescript-eslint/parser": "^6.9.0",
+        "clean-webpack-plugin": "^4.0.0",
+        "copy-webpack-plugin": "^11.0.0",
+        "electron": "^27.0.2",
+        "eslint": "^8.52.0",
+        "eslint-config-prettier": "^9.0.0",
+        "file-loader": "^6.2.0",
+        "nodemon": "^3.0.1",
+        "path-browserify": "^1.0.1",
+        "prettier": "^3.0.3",
+        "ts-loader": "^9.5.0",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.2.2",
+        "webpack": "^5.89.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^4.15.1"
+    }
+}

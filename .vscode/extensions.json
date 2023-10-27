@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "steoates.autoimport",
+        "bracketpaircolordlw.bracket-pair-color-dlw",
+        "naumovs.color-highlight",
+        "dbaeumer.vscode-eslint",
+        "oderwat.indent-rainbow",
+        "esbenp.prettier-vscode"
+    ]
+}
